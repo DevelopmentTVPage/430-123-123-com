@@ -4,6 +4,7 @@
     "referenceId": "SFrvgSaXTxw",
     "date_created": "1401900705",
     "date_modified": "1499987173",
+    "tags": "",
     "sourceId": "4",
     "VIDEO_LENGTH": "SHORT",
     "video_type": "Featured",
@@ -21,6 +22,8 @@
     "id": "6468408",
     "loginId": "1758166",
     "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "66716699",
     "titleTextEncoded": "College-Eating-and-New-Takes-on-Mac-Cheese",
     "category": null,
     "duration": "75",
@@ -39,10 +42,32 @@
         "uploadAsset": false,
         "quality": ""
     },
+    "transcripts": "Mac and cheese is easy and quick. For college students everywhere.  And whether you make it in a microwave or a pot on the stove. It does not need to be eaten plain, by itself, ever again. You want to have some fun? Try adding some to a hot dog before serving. Silly? well of course. But trust me, it's still really good. Or stirring in a can of no bean chili for a simple chili mac with extra cheese and corn chips of course. Then there's mac tuna casserole. Or sour cream and green onion mac. You want them slightly more sophisticated you say? well, I can do that. How about buffalo mac - with hot sauce, blue cheese, and chicken. Or macaroni with sauteed yellow onions and bacon. Or New England style with bread crumbs, crab, and seafood seasoning. Macaroni and cheese - eat it plain, it's fine. Do it like we've just done here - outstanding. ",
+    "VV_VI": "23",
+    "CVV_VI": null,
+    "engagement_score": 0,
+    "conversion_score": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-08-23"
+            }
+        }
+    },
     "delete": null,
     "notes": null,
     "uploader": null,
     "modified_date": null,
     "created_date": null,
-    "creator": null
+    "creator": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3413.681,
+    "tvp_profiles_nlp": null,
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": null,
+    "tvp_profiles_maxscore_account": null
 }
